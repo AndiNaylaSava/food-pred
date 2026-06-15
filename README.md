@@ -49,4 +49,4 @@ Program menghasilkan:
 * Scikit-Learn
 * Matplotlib
 
-Proyek ini disusun sebagai tugas mata kuliah Statistik dan Probabilitas.
+Proyek ini disusun sebagai uas mata kuliah Statistik dan Probabilitas.
